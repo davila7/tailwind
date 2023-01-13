@@ -1,7 +1,7 @@
 {
   "name": "tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tailwind en HTML",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/davila7/tailwind.git"
   },
-  "author": "",
+  "author": "Daniel San",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/davila7/tailwind/issues"
